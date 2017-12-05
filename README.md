@@ -2,7 +2,7 @@
 157 Throckmorton Ave., Mill Valley, CA 94941
 
 ## Building History
-In 1920 this building was called Dowd's Moving and Storage. This company utilized both moterized vehicles and horses.
+In 1920 this building was called Dowd's Moving and Storage. This company utilized both motorized vehicles and horses.
 
 The Dowd family, all pioneer’s of Mill Valley, established this firm in 1892. It is one of the oldest in Mill Valley. It was originally called Dowd’s Fashion Stables and maintained an elegant rig which seated 12 persons. Horses were replaced with motor trucks in 1919. In 1910 these stables burned to the ground and were replaced the following year, the building looking much as it did before the fire. In addition to hauling material, the firm rented horses and burros. The burros were hired out at the rate of 25 cents per hour or $1.50 per day for trips to the top of Mt. Tamalpais or up Cascade Canyon.
 
@@ -10,12 +10,14 @@ The Dowd’s also ran a mortuary on Madrona Street from 1905 to 1919, had a quar
 
 
 - Built: c.tbd
+- Destroyed: 1984 by fire
 - Replaced: c.tbd
 - Architect: tbd
 - Library link: tbd
 
 ### Online references:
-- tbd
+- https://patch.com/california/millvalley/then-now-dowds-storage
+- 
 
 ## SketchUp Model
 - Made by Avery Schoen
