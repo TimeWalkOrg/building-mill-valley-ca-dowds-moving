@@ -16,8 +16,7 @@ The Dowd’s also ran a mortuary on Madrona Street from 1905 to 1919, had a quar
 - Library link: tbd
 
 ### Online references:
-- https://patch.com/california/millvalley/then-now-dowds-storage
-- 
+- [Mill Valley Patch: Then and Now](https://patch.com/california/millvalley/then-now-dowds-storage)
 
 ## SketchUp Model
 - Made by Avery Schoen
@@ -25,6 +24,7 @@ The Dowd’s also ran a mortuary on Madrona Street from 1905 to 1919, had a quar
 - Modeled in SketchUp 2017
 
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-dowds-moving/blob/master/dowds-moving-1920.png)
+![Then and Now photo, late 1930's](https://github.com/TimeWalkOrg/building-mill-valley-ca-dowds-moving/blob/master/dowds-moving-photo-1920.jpg)
 
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
