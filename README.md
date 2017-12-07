@@ -24,7 +24,7 @@ The Dowd’s also ran a mortuary on Madrona Street from 1905 to 1919, had a quar
 - Modeled in SketchUp 2017
 
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-dowds-moving/blob/master/dowds-moving-1920.png)
-![Then and Now photo, late 1930's](https://github.com/TimeWalkOrg/building-mill-valley-ca-dowds-moving/blob/master/dowds-moving-photo-1920.jpg)
+![Then and Now photo, late 1930's](https://github.com/TimeWalkOrg/building-mill-valley-ca-dowds-moving/blob/master/dowds-moving-photo-1930s.jpg)
 
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
