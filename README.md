@@ -13,7 +13,7 @@ The Dowds also ran a mortuary on Madrona Street from 1905 to 1919, had a quarry 
 
 The Dowd’s building burned down on June 18, 1984, “when a $1 million fire destroyed it and an adjacent building”, and 157 Throckmorton has remained an empty lot ever since (Source: [Mill Valley Patch: Then and Now](https://patch.com/california/millvalley/then-now-dowds-storage)).
 
--	Built: c. 1982; Charles Dowd, owner 
+-	Built: c. 1892; Charles Dowd, owner 
 -	Modifications: Destroyed by a fire in 1910, rebuilt in 1911, destroyed by fire again in 1984
 
 
